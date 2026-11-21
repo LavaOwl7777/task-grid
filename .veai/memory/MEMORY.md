@@ -1,0 +1,1 @@
+- [playwright-manual-browser-install](playwright-manual-browser-install-5af925df8b70.md) — Playwright browser install: curl mirror playwright.download.prss.microsoft.com, tar, INSTALLATION_COMPLETE marker
